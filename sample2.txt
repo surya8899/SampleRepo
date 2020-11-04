@@ -2,3 +2,4 @@ meaning of.
 1.gitignore
 2.git reset calc.py
 3.git add -A
+thanks rakesh
